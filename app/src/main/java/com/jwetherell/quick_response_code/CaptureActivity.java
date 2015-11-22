@@ -40,8 +40,9 @@ import android.widget.TextView;
 
 /**
  * Example Capture Activity.
- * 
+ *
  * @author Justin Wetherell (phishman3579@gmail.com)
+ * asdfasdf
  */
 public class CaptureActivity extends DecoderActivity implements Scanner {
 
